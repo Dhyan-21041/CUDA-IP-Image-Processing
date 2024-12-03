@@ -18,9 +18,9 @@ This project focuses on processing aerial images from the [USC SIPI Image Databa
 
 ## **Data Used**
 
-- **Dataset:** Aerial images from the [USC SIPI Image Database](https://sipi.usc.edu/database/database.php?volume=aerials).
+- **Dataset:** Aerial images from the [USC SIPI Image Database](https://sipi.usc.edu/database/database.php?volume=aerials). (100MB+)
 - **Format:** High-resolution `.tiff` images of aerial photographs.
-- **Number of Images:** 38 images.
+- **Number of Images:** 38 images of 10 MB each.
 
 ---
 
