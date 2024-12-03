@@ -1,0 +1,11 @@
+./data_aerials.zip
+dataset/
+results/
+*.tiff
+*.tif
+*.zip
+*.jpg
+*.png
+*.exe
+*.dll
+*.so
