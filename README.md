@@ -1,4 +1,4 @@
-# Aerial Image Processing with OpenCV
+# Aerial Image Processing - Edge Detection
 
 ## Overview
 
