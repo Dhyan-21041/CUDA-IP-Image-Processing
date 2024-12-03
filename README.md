@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-This project focuses on processing aerial images from the [USC SIPI Image Database](https://sipi.usc.edu/database/database.php?volume=aerials) using C++ and OpenCV. The main goal is to apply various image processing techniques to enhance the images and demonstrate the ability to handle large datasets efficiently.
+This project focuses on processing aerial images from the [USC SIPI Image Database](https://sipi.usc.edu/database/database.php?volume=aerials) using C++ and OpenCV. The main goal is to apply various image processing techniques to enhance the images and demonstrate the ability to handle large image datasets efficiently and perform Edge Detection.
 
 ---
 
