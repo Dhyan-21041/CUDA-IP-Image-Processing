@@ -56,6 +56,3 @@ This project processes aerial images from the USC SIPI Image Database using Open
    ```bash
    git clone https://github.com/your_username/your_repository.git
    cd your_repository
-=======
-# CUDA-IP-Image-Processing
->>>>>>> origin/main
