@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Aerial Image Processing with OpenCV
 
 ## Overview
